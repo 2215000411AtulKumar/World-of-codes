@@ -1,2 +1,2 @@
 # World of codes
-All kinds of c dishes is available in  cKitchen.
+All kinds of c codes are available in  world.
